@@ -1,0 +1,17 @@
+{
+    "port": 9999,
+    "pdfReaderPath": "C:\\Tools\\SumatraPDF.exe",
+    "pdfReaderType": "sumatra",
+    "allowedOrigins": [
+        "http://localhost",
+        "http://localhost:8000",
+        "http://127.0.0.1:8000",
+        "http://192.168.1.100",
+        "http://sirus.local"
+    ],
+    "printers": {
+        "etiket": "etiket",
+        "kasir":  "kasir"
+    }
+}
+
